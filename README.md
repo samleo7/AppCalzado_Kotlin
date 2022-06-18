@@ -8,3 +8,6 @@
 
 ### Listado de la entrega de pedido, actualizacion y creacion 
 [![Panta-Calzado3.png](https://i.postimg.cc/50SQ0QTY/Panta-Calzado3.png)](https://postimg.cc/G89mgtcd)
+
+### Listado de las tarjetas de credito y creacion
+[![Panta-Calzado4.png](https://i.postimg.cc/nV5pmhxC/Panta-Calzado4.png)](https://postimg.cc/6TdkJwyX)
